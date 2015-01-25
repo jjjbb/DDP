@@ -1,6 +1,6 @@
 ---
 title       : Predicting AFL Team Performance
-subtitle    : The James Hird Memerial Ladder Predictor
+subtitle    : The James Hird Meme-rial Ladder Predictor
 author      : J Burgess
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
