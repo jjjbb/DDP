@@ -1,0 +1,17 @@
+afl team performance prediction.
+
+Afl - Australian rules football
+popular in South-eastern australian field sport.
+2 teams, high scoring, object to get the ball though goals at opposing ends of the oval field.
+
+Some teams seem to do much better than others
+
+Fremantle
+Melbourne
+
+Let's see what variables are important:
+clear definition.
+Goals
+Disposals - successfully passing of the ball
+
+
