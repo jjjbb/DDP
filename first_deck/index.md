@@ -15,7 +15,7 @@ knit        : slidify::knit2slides
 ## Australian Rules Football (AFL)
 * Australian Field Sport
 * Popular in the south-East States
-* Kick a ball through the goals to win
+* Kick the ball through the goals to win
 
 --- .class #id 
 
